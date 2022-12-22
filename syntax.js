@@ -70,11 +70,8 @@ pasarLaNavidad('grinch', [
         function() {
         console.log('Mis vacaciones');
         
+    },        
     },
-    function() {
-        console.log('Vacaciones de Juan');
-        
-    },
-}, function() {
+ function() {
     return 'Fin de la Historia';
 }, );
